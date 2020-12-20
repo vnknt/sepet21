@@ -3,7 +3,7 @@
 Codeigniter Framework kullanarak yaptığım Web Tabanlı online sipariş sitesi.
 
 
-## Önizleme
+## Ön izleme
 
 
 
@@ -19,7 +19,7 @@ Codeigniter Framework kullanarak yaptığım Web Tabanlı online sipariş sitesi
 
 #### Adım 1:
 
-    Ana dizinde bununan market.sql veritabanını kurunuz.
+    Ana dizinde bulunan market.sql veritabanını kendi sunucunuza kurunuz.
 #### Adım 2:
 
     Application/config/database.php dosyasında 
@@ -36,7 +36,7 @@ Codeigniter Framework kullanarak yaptığım Web Tabanlı online sipariş sitesi
 
           $config['base_url'] = 'http://localhost/mavisepet';
 
-     değişkenine url adresini yapınız
+     değişkenine http://localhost/mavisepet yerine sizin kendi url adresini yazınız
 
 
 
@@ -47,7 +47,7 @@ Codeigniter Framework kullanarak yaptığım Web Tabanlı online sipariş sitesi
 
 #### Adım 5:
 
-    Panel/application/config.php      dosyasında url adresini url adresiniz/panel şeklinde değiştiniz
+    Panel/application/config.php      dosyasında url adresini " url_adresiniz/panel " şeklinde değiştiniz
 
 
 # Ekran Görüntüleri :
