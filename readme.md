@@ -50,6 +50,51 @@ Codeigniter Framework kullanarak yaptığım Web Tabanlı online sipariş sitesi
     Panel/application/config.php      dosyasında url adresini url adresiniz/panel şeklinde değiştiniz
 
 
+# Ekran Görüntüleri :
+
+
+#### Ana Sayfa(Mobil)
+
+<img src="../master/screenshots/home-mobil.png" width="40%"></img> 
+
+#### Urunler (Mobil)
+
+
+<img src="../master/screenshots/urunler-mobil2.png" width="40%"></img> 
+
+#### Sidebar (Mobil)
+
+<img src="../master/screenshots/sidebar.png" width="40%"></img> 
+
+#### Sepet (Mobil)
+
+<img src="../master/screenshots/cart.png" width="40%"></img> 
+
+
+
+#### Ana sayfa(Desktop)
+<img src="../master/screenshots/home.png" width="40%"></img> 
+
+#### Urunler(Desktop)
+<img src="../master/screenshots/urunler.png" width="40%"></img> 
+
+
+#### Admin Panel
+<img src="../master/screenshots/panel.png" width="40%"></img> 
+
+
+#### Siparis Detaylari
+<img src="../master/screenshots/siparis-detay.png" width="40%"></img> 
+
+
+#### Siparişler
+
+
+<img src="../master/screenshots/siparisler.png" width="40%"></img> 
+
+
+
+ 
 
 
 
