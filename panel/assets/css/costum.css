@@ -1,0 +1,163 @@
+.sideNav {
+
+
+
+height:100%;
+background-color:#1e282e;
+
+
+
+}
+
+
+body {
+
+
+}
+
+.sideNav {
+line-height: 2.5em;
+font-family:Helvetica,Arial,Verdana;
+}
+
+
+
+#sidebar 
+{   
+    min-width: 250px;
+    max-width: 250px;
+    background-color:#30333b;
+    color:#fff; 
+    transition: all 0.3s;
+    height:100%;
+    position:fixed;
+    
+    z-index: 999;
+    padding-top:5em;
+    line-height: 2.5em;
+}
+
+
+
+
+
+#sidebar a {
+
+    color:#fff;
+    text-decoration:none;
+    font-size:1.2em;
+
+    margin-left:15px;
+    
+   
+    }
+
+#sidebar a:hover {
+
+background-color:rgba(0,0,0,0.2);
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:576px) {      
+        .icerik-active {
+
+
+
+        margin-left:250px;
+        transition:all 0.3s;
+
+
+
+
+        }
+
+
+        .icerik {
+
+
+
+            margin-top:1em;
+            transition:all 0.3s;
+
+        }
+
+
+
+
+    }
+
+
+
+.wrapper {
+    
+    transition:all 0.3s;
+
+
+}
+
+
+.sidebar-active {
+
+margin-left:-250px;
+
+
+
+}
+
+
+.sidebar-header {
+
+
+    z-index:1000;
+
+
+
+}
+
+
+
+
+
+
+
+#logout-btn{
+position:absolute;
+bottom:30px;}
+   
+
+
+
+
+
+
+.dropzone {
+
+    margin-top:100px;
+    margin-bottom:100px;
+    border:2px dashed #c0c0c0 !important;
+    background-color:#dfdfdf !important ;
+
+
+
+
+
+}
